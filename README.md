@@ -37,7 +37,7 @@ A full-stack web application built with **Next.js** for the frontend and **Expre
 ## Project Structure
 
 Demo:
-A video demonstration of the application is available [here](https://www.dropbox.com/scl/fi/nwjngsk4nx0u5ateiw759/2024-11-20-22-54-33.mkv?rlkey=40teva57jgd8z7c07llgqf09y&st=wp77p575&dl=0).
+A video demonstration of the application is available [here](https://www.dropbox.com/scl/fi/e9w0lv2x71kb19amitlva/Loan-App-Assignment.mkv?rlkey=7idf070qcz2fs36v0omcol7z0&st=7a86mshw&dl=0).
 
 ### Frontend and Backend Structure Including Instructions.:
 ```plaintext
