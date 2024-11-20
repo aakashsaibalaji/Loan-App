@@ -89,8 +89,8 @@ MONGO_URL=
 ->npm run start
 
 6.Run frotend.
-cd frontend
-npm run dev
+->cd frontend
+->npm run dev
 
 
 
