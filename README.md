@@ -67,7 +67,6 @@ Prerequisites:
 1. Clone the Repository
 ```plaintext
 git clone https://github.com/aakashsaibalaji/Loan-App.git
-cd your-repo-name
 ```
 
 2.Install Dependencies
