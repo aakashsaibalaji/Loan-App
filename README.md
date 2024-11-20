@@ -39,7 +39,7 @@ A full-stack web application built with **Next.js** for the frontend and **Expre
 Demo:
 A video demonstration of the application is available [here](https://www.dropbox.com/scl/fi/nwjngsk4nx0u5ateiw759/2024-11-20-22-54-33.mkv?rlkey=40teva57jgd8z7c07llgqf09y&st=wp77p575&dl=0).
 
-### Frontend:
+### Frontend and Backend Structure Including Instructions.:
 ```plaintext
 /frontend
  /app
@@ -63,7 +63,7 @@ Prerequisites:
 - A **Firebase project** configured for authentication.
 ---
 ## Steps:
-### 1. Clone the Repository
+1. Clone the Repository
 git clone https://github.com/your-repo-name.git
 cd your-repo-name
 
