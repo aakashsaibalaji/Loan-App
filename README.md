@@ -55,7 +55,8 @@ A video demonstration of the application is available [here](https://www.dropbox
   ├── /models
   ├── /utils
   ├── server.js
-  └── package.json ```
+  └── package.json
+```
 
 # Setup Instructions
 Prerequisites:
@@ -64,15 +65,20 @@ Prerequisites:
 ---
 ## Steps:
 1. Clone the Repository
+```plaintext
 git clone https://github.com/aakashsaibalaji/Loan-App.git
 cd your-repo-name
+```
 
 2.Install Dependencies
 Navigate to both the frontend and backend folders and run:
--> npm install
+```plaintext
+npm install
+```
 
 3. Add Firebase Configuration
 Create a .env.local file in the frontend folder and add the following keys (replace with your Firebase project values)
+```plaintext
 NEXT_PUBLIC_FIREBASE_API_KEY=
 NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN=
 NEXT_PUBLIC_FIREBASE_PROJECT_ID=
@@ -80,18 +86,24 @@ NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET=
 NEXT_PUBLIC_FIREBASE_MESSAGING_SENDER_ID=
 NEXT_PUBLIC_FIREBASE_APP_ID=
 NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID=
+```
 
 4.Add Backend MongoDB Url local or altas in .env.
+```plaintext
 MONGO_URL=
+```
 
 5.Run Backend.
-->cd Backend
-->npm run start
+```plaintext
+cd Backend
+npm run start
+```
 
 6.Run frotend.
+```plaintext
 ->cd frontend
 ->npm run dev
-
+```
 
 
 
