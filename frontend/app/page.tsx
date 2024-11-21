@@ -38,7 +38,7 @@ export default function Home() {
                     </Button>
                     <Button
                       variant="outline"
-                      className="border-white text-black hover:bg-white hover:text-blue-600"
+                      className="border-white text-black bg-blue-500 hover:bg-white hover:text-blue-600"
                     >
                       Learn More
                     </Button>
