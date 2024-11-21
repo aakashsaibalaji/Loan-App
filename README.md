@@ -28,6 +28,7 @@ A full-stack web application built with **Next.js** for the frontend and **Expre
 
 ### Backend:
 - **Express.js** (Web application framework for Node.js)
+- **MongoDB**(Stored user and Loan Details)
 
 ### Authentication:
 - **Firebase** (User Authentication and API integration)
